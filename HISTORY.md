@@ -1,6 +1,35 @@
+# 3.12.1 (2016-07-02)
+  * Fixed wrong path to 'publicPath' variable from webpackConfig
+
+# 3.11.2 (2016-07-01)
+  * Fix to render also pure function components
+  
+# 3.11.1 (2016-06-22)
+  * Fix coding style violations
+  * Fixing all npm modules to specific versions
+
+# 3.11.0 (2016-06-14)
+  * Allow additional Babel plugins to be configured
+
+# 3.10.0 (2016-06-07)
+  * Fixes category navigation when using root or pushstate.
+  * Make bundle paths absolute to fix landing on subpaths when using pushstate
+
+# 3.9.0 (2016-06-02)
+  * Allow indices of 10 and above by supporting floats.
+
+# 3.8.1 (2016-05-27)
+  * Resolves conflict between pushstate and relative navigation paths
+
+# 3.8.0 (2016-05-25)
+  * Fixes issue where overridden publicPath would break dev mode
+
+# 3.7.0 (2016-05-23)
+  * Preventing .babelrc conflicts with RSG compilation
+
 # 3.6.0 (2016-05-16)
   * Expanding backwards compatibility to include node@0.x
-  
+
 # 3.5.3 (2016-05-09)
   * Adding json-loader to webpack loaders to handle json requires
 
