@@ -110,8 +110,8 @@
     "eslint-plugin-react": "3.16.1",
     "gh-pages": "0.4.0",
     "mocha": "2.5.3",
-    "react": "^15.2.1",
-    "react-dom": "^15.2.1",
+    "react": "15.4.0",
+    "react-dom": "15.4.0",
     "rimraf": "2.4.5",
     "standard": "5.4.1",
     "uglify-js": "2.6.3"
